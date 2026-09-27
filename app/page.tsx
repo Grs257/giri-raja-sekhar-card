@@ -41,6 +41,7 @@ export default function Page() {
               Boddu Giri
               <span className="block text-[#42638e]">Raja Sekhar</span>
             </h1>
+            <p className="mt-5 text-sm font-semibold tracking-[0.08em] text-[#42638e]">Now on GitHub</p>
             <p className="mt-8 max-w-xl text-lg leading-8 text-[#52647c] sm:text-xl">
               Software Engineer building 5G Network Management microservices at Truminds Software Systems.
             </p>
