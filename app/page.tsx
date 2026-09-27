@@ -35,7 +35,7 @@ export default function Page() {
         <section id="top" className="grid flex-1 items-center gap-14 py-16 lg:grid-cols-[1.1fr_0.9fr] lg:gap-24 lg:py-20">
           <div>
             <p className="mb-6 flex items-center gap-3 text-xs font-bold uppercase tracking-[0.22em] text-[#42638e]">
-              <span className="h-px w-8 bg-[#42638e]" /> Hello, I'm
+              <span className="h-px w-8 bg-[#42638e]" /> Hi, I build 5G network software.
             </p>
             <h1 className="max-w-3xl text-5xl font-semibold leading-[0.98] tracking-[-0.06em] text-[#0b1f3a] sm:text-7xl lg:text-[5.8rem]">
               Boddu Giri
